@@ -18,7 +18,7 @@
 - 💬 Ask me about <a href="https://github.com/Sajjad-Hosan/Sajjad-Hosan/issues" title="Issues">Here</a>
 - 📫 How to reach me: <a href="mailto: s4jj4dh034n@gmail.com">Contact Me</a>
 <br>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="icons/c.svg"></code>
