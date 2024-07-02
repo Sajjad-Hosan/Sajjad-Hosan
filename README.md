@@ -18,6 +18,12 @@
 - 💬 Ask me about <a href="https://github.com/Sajjad-Hosan/Sajjad-Hosan/issues" title="Issues">Here</a>
 - 📫 How to reach me: <a href="mailto: s4jj4dh034n@gmail.com">Contact Me</a>
 <br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<br>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
 <p align="center">
