@@ -48,7 +48,7 @@
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Sajjad-Hosan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+       <img align="center" height="240px" src="https://github-readme-stats.vercel.app/api?username=Sajjad-Hosan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 <br>
@@ -60,7 +60,7 @@
   <br>
   <div align=center >
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Hosan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height="230px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Hosan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
      </a>
   </div>
   <br><br>
