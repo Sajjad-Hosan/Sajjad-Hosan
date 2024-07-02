@@ -18,6 +18,16 @@
 - 💬 Ask me about <a href="https://github.com/Sajjad-Hosan/Sajjad-Hosan/issues" title="Issues">Here</a>
 - 📫 How to reach me: <a href="mailto: s4jj4dh034n@gmail.com">Contact Me</a>
 <br>
+
+<p align="center">
+  <a href="https://www.facebook.com/sajjadhosan111"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./socials/facebook.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/s4jj4dh034n?igsh=MWdrZHZxa2k2OG00Zg=="><img width="32px" alt="LinkedIn" title="LinkedIn" src="./socials/instagram.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/sajjad-hosan-250406282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./socials/linkedin.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+<br>
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
 <p align="center">
