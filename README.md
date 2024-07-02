@@ -9,13 +9,16 @@
 </div>
 <br><br><br>
 
-## About Me
+## Know About Me 😊
+### I may not be a well-known figure yet, but I'm on a mission to change that! Recently, I started a journey to become a master in web development and am now a junior frontend developer. My ultimate goal is to create the most exceptional web pages that deliver unmatched performance and an outstanding user-friendly experience to the user.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NextJS
-- 💻 I love writing code and learn anythings about it
+<br>
+
+- 🔭 I’m currently working on My Portfolio 🧑‍💻
+- 🌱 I’m currently learning NextJS 📖
+- 💻 I love writing code and learn anythings about it 📚
 - 💬 Ask me about <a href="https://github.com/Sajjad-Hosan/Sajjad-Hosan/issues" title="Issues">Here</a>
-- 📫 How to reach me: <a href="mailto: s4jj4dh034n@gmail.com">Contact Me</a>
+- 📫 How to reach me: <a href="mailto: s4jj4dh034n@gmail.com">Contact Me 📧</a> 
 <br>
 
 <p align="center">
