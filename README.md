@@ -1,20 +1,24 @@
-## Hi there 👋
+<br><br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Hello,+There!+👋;This+is+Sajjad+Hosan;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</div>
+<br><br><br>
 
-<!--
-**Sajjad-Hosan/Sajjad-Hosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, 👋
 
-Here are some ideas to get you started:
+** I'm a self-taught passionate FrontEnd developer from Bangladesh
+
+## About Me
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning NextJS
+- 💻 I love writing code and learn anythings about it
+- 💬 Ask me about <a href="https://github.com/Sajjad-Hosan/Sajjad-Hosan/issues" title="Issues">Here</a>
+- 📫 How to reach me: <a href="mailto: s4jj4dh034n@gmail.com">Contact Me</a>
 
+<br>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
        <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=Sajjad-Hosan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
