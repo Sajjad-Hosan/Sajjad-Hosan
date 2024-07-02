@@ -27,6 +27,9 @@
   <code><img title="Javascript" height="25" src="icons/javascript.svg"></code>
   <code><img title="React" height="25" src="icons/react-original.svg"></code>
   <code><img title="GitHub" height="25" src="icons/github.svg"></code>
+  <code><img title="GitHub" height="25" src="icons/express.png"></code>
+  <code><img title="GitHub" height="25" src="icons/tailwind.svg"></code>
+  <code><img title="GitHub" height="25" src="icons/node.svg"></code>
 </p>
 <hr>
 <br>
