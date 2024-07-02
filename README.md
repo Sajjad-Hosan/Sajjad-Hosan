@@ -26,7 +26,7 @@
   <code><img title="CSS" height="25" src="icons/css.svg"></code>
   <code><img title="Javascript" height="25" src="icons/javascript.svg"></code>
   <code><img title="React" height="25" src="icons/react-original.svg"></code>
-  <code><img title="GitHub" height="25" src="icons/github.png"></code>
+  <code><img title="GitHub" height="25" src="icons/github.svg"></code>
 </p>
 <hr>
 <br>
