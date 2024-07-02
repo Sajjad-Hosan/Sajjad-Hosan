@@ -1,7 +1,10 @@
+
+
+# Greeting visitor! 👋,
 <br><br>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Hello,+There!+👋;This+is+Sajjad+Hosan;Nice+to+meet+you!;I+am+an+junior;Frontend+developer+🧑‍💻;I+love+to+learn;Anything+by+myself+😎.&center=true&size=30">
+    <img height=150 src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Nice+to+meet+you!+🥰;I'm+Sajjad+Hosan;An+Junior;Frontend+Developer+🧑‍💻;from+Bangladesh;I+love+to+learn;Anything+by+myself+😎.&center=true&size=30">
   </a>
 </div>
 <br><br><br>
