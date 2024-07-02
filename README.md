@@ -22,12 +22,11 @@
 <br>
 <p align="center">
   <code><img title="C" height="25" src="icons/c.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="HTML5" height="25" src="icons/html5.svg"></code>
+  <code><img title="CSS" height="25" src="icons/css.svg"></code>
+  <code><img title="Javascript" height="25" src="icons/javascript.svg"></code>
+  <code><img title="React" height="25" src="icons/react-original.svg"></code>
+  <code><img title="GitHub" height="25" src="icons/github.png"></code>
 </p>
 <hr>
 <br>
