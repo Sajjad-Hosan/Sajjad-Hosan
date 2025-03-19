@@ -10,7 +10,7 @@
 <br><br><br>
 
 ## Know About Me 😊
-### I may not be a well-known figure yet, but I'm on a mission to change that! Recently, I started a journey to become a master in web development and am now a junior frontend developer. My ultimate goal is to create the most exceptional web pages that deliver unmatched performance and an outstanding user-friendly experience to the user.
+### I may not be a well-known figure yet, but I'm on a mission to change that! Recently, I started a journey to become a master in web development and am now a junior MERN developer. My ultimate goal is to create the most exceptional web pages that deliver unmatched performance and an outstanding user-friendly experience to the user.
 
 <br>
 
